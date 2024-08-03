@@ -1,4 +1,4 @@
-# Color Changer Project
+# Background Changer Project
 
 This project is a simple React.js application that allows users to change the background color of the page by clicking on buttons. Each button corresponds to a specific color. This project was created using Vite and styled with Tailwind CSS.
 
@@ -17,8 +17,8 @@ To get started with this project, follow these steps:
 
 1. _Clone the repository:_
    bash
-   git clone https://github.com/yourusername/color-changer.git
-   cd color-changer
+   git clone https://github.com/ArchanaShah3/Background-Changer.git
+   cd Background-Changer
 
 2. _Install dependencies:_
    bash
